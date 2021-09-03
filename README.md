@@ -1,8 +1,3 @@
-# Spring Batch Tutorial: Reading Data From a CSV File
-
-You can read the relevant blog post by clicking the following link:
-
-* [Spring Batch Tutorial: Reading Data From a CSV File](https://www.petrikainulainen.net/programming/spring-framework/spring-batch-tutorial-reading-information-from-a-file/)
 
 # Prerequisites
 
